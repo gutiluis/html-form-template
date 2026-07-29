@@ -1,3 +1,5 @@
+CURRENTLY UNDER DEVELOPMENT...
+
 # HTML form template for goods with CSS
 
 User form template for signup in frontend
