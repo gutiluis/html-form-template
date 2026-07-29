@@ -19,3 +19,7 @@ User form template for signup in frontend
 - HTML
 
 ---
+
+### License
+
+[MIT LICENSE](LICENSE)
