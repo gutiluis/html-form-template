@@ -1,22 +1,21 @@
-## How it works:
+# HTML form template for goods with CSS
 
-# html_form_template
-user form template for signup in frontend
+User form template for signup in frontend
 
-## Features:
+---
+
+## How it works
+
+---
+
+## Features
 
 -----
 
-## Technologies Used:
+## Tech-Stack
 
 - Python
+- CSS
+- HTML
 
-####
-
-### What I Learned:
-
-------
-
-##
-
-Clone repo:
+---
