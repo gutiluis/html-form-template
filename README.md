@@ -1,6 +1,9 @@
-CURRENTLY UNDER DEVELOPMENT...
+> [!WARNING]
+> CURRENTLY UNDER DEVELOPMENT
 
-# HTML form template for goods with CSS
+# The goods form
+
+## HTML form template for goods with CSS
 
 User form template for signup in frontend
 
